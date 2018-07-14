@@ -61,7 +61,7 @@ import DateDirection from "../components/DateDirection.vue";
 import { MeetupBannerModel } from "../models/MeetupBanner";
 import { SpeakerModel } from "../models/Speaker";
 
-import * as domtoimage from "../../node_modules/dom-to-image/dist/dom-to-image.min.js";
+import * as domtoimage from 'dom-to-image';
 
 @Component({
   components: {

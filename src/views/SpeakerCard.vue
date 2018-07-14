@@ -42,7 +42,7 @@ import { Component, Prop, Vue } from "vue-property-decorator";
 
 import { SpeakerModel } from "../models/Speaker";
 
-import * as domtoimage from "../../node_modules/dom-to-image/dist/dom-to-image.min.js";
+import * as domtoimage from 'dom-to-image';
 
 @Component
 export default class SpeakerCard extends Vue {
