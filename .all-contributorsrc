@@ -1,0 +1,25 @@
+{
+  "projectName": "ResourcesGenerator",
+  "projectOwner": "Net-Baires",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "teban3010",
+      "name": "Esteban Yañez",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/28022150?v=4",
+      "profile": "https://github.com/teban3010",
+      "contributions": [
+        "doc",
+        "code",
+        "design",
+        "ideas"
+      ]
+    }
+  ]
+}
